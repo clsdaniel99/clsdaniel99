@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @clsdaniel99
+- 👋 Hi, I’m Carlos Daniel
 - 👀 I’m interested in becoming a frontend developer.
 - 🌱 I’m currently learning HTML,CSS,Javascript.
 - 💞️ I'm looking to collaborate on projects to learn the way to become a good professional.
