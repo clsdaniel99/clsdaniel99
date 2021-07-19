@@ -4,7 +4,9 @@
 - 💞️ I'm looking to collaborate on projects to learn the way to become a good professional.
 - 📫 You can contact me by email: carlosdaniel_1999@live.com
 
-<!---
-clsdaniel99/clsdaniel99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 👋 Olá, sou Carlos Daniel
+- 👀 Estou interessado em me tornar um desenvolvedor front-end.
+- 🌱 Atualmente, estou aprendendo HTML, CSS, Javascript.
+- 💞️ Procuro colaborar em projetos para aprender a me tornar um bom profissional.
+- 📫 Você pode entrar em contato comigo pelo e-mail: carlosdaniel_1999@live.com
